@@ -497,8 +497,8 @@
         },
         {
             "Name": "Mygeeto Seeding V1",
-            "rawName": "GC_Mygeeto_SEED_V1",
-            "levelName": "GC_Mygeeto_SEED_V1",
+            "rawName": "GC_Mygeeto_Seed_V1",
+            "levelName": "GC_Mygeeto_Seed_V1",
             "mapId": "Mygeeto",
             "mapName": "Mygeeto",
             "gamemode": "SEED",
