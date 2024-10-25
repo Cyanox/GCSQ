@@ -568,6 +568,15 @@
             "layerVersion": "v1"
         },
         {
+            "Name": "RhenVar Skirmish V1",
+            "rawName": "GC_Rhenvar_SKM_V1",
+            "levelName": "GC_Rhenvar_SKM_V1",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+        {
             "Name": "RhenVar RAAS V1-R",
             "rawName": "GC_Rhenvar_RAAS_V1-R",
             "levelName": "GC_Rhenvar_RAAS_V1-R",
