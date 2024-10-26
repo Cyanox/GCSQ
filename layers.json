@@ -243,6 +243,15 @@
             "gamemode": "AAS",
             "layerVersion": "v1"
         },
+	{
+            "Name": "Galban RAAS V1",
+            "rawName": "GC_Galban_RAAS_V1",
+            "levelName": "GC_Galban_RAAS_V1",
+            "mapId": "Galban",
+            "mapName": "Galban",
+            "gamemode": "RAAS",
+            "layerVersion": "v1"
+        },
         {
             "Name": "Galban AAS V1-R",
             "rawName": "GC_Galban_AAS_V1-R",
@@ -261,6 +270,15 @@
             "gamemode": "INS",
             "layerVersion": "v1"
         },
+ 	{
+            "Name": "Galban INS V1-S",                          
+            "rawName": "GC_Galban_INS_V1-S",
+            "levelName": "GC_Galban_INS_V1-S",
+            "mapId": "Galban",
+            "mapName": "Galban",
+            "gamemode": "INS",
+            "layerVersion": "v1-S"
+        },
         {
             "Name": "Galban INV V1",
             "rawName": "GC_Galban_INV_V1",
@@ -269,6 +287,15 @@
             "mapName": "Galban",
             "gamemode": "INV",
             "layerVersion": "v1"
+        },
+ 	{
+            "Name": "Galban GLOPS",                         
+            "rawName": "GC_Galban_GLOPS",
+            "levelName": "GC_Galban_GLOPS",
+            "mapId": "Galban",
+            "mapName": "Galban",
+            "gamemode": "GLOPS",
+            "layerVersion": ""
         },
         {
             "Name": "Galban INV V1-R",
@@ -279,6 +306,15 @@
             "gamemode": "INV",
             "layerVersion": "v1-R"
         },
+	{
+            "Name": "Galban INV V2",
+            "rawName": "GC_Galban_INV_V2",
+            "levelName": "GC_Galban_INV_V2",
+            "mapId": "Galban",
+            "mapName": "Galban",
+            "gamemode": "INV",
+            "layerVersion": "v2"
+        },
         {
             "Name": "Galban RINV V1 Fighters",
             "rawName": "GC_Galban_RINV_V1_Fighters",
@@ -288,6 +324,60 @@
             "gamemode": "RINV",
             "layerVersion": "v1_Fighters"
         },
+	{
+            "Name": "Galban RINV V2",
+            "rawName": "GC_Galban_RINV_V2",
+            "levelName": "GC_Galban_RINV_V2",
+            "mapId": "Galban",
+            "mapName": "Galban",
+            "gamemode": "RINV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Galban RINV V1 Fighters2",
+            "rawName": "GC_Galban_RINV_V1_Fighters2",
+            "levelName": "GC_Galban_RINV_V1_Fighters2",
+            "mapId": "Galban",
+            "mapName": "Galban",
+            "gamemode": "RINV",
+            "layerVersion": "v1_Fighters2"
+        },
+	{
+            "Name": "Galban RINV V1",
+            "rawName": "GC_Galban_RINV_V1",
+            "levelName": "GC_Galban_RINV_V1",
+            "mapId": "Galban",
+            "mapName": "Galban",
+            "gamemode": "RINV",
+            "layerVersion": "v1"
+        },
+ 	{
+            "Name": "Galban INV V2-R",
+            "rawName": "GC_Galban_INV_V2-R",
+            "levelName": "GC_Galban_INV_V2-R",
+            "mapId": "Galban",
+            "mapName": "Galban",
+            "gamemode": "INV",
+            "layerVersion": "v2-R"
+        },
+	{
+            "Name": "Galban SKM_v1",
+            "rawName": "GC_Galban_SKM_v1",
+            "levelName": "GC_Galban_SKM_v1",
+            "mapId": "Galban",
+            "mapName": "Galban",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Galban SKM_v2",
+            "rawName": "GC_Galban_SKM_v2",
+            "levelName": "GC_Galban_SKM_v2",
+            "mapId": "Galban",
+            "mapName": "Galban",
+            "gamemode": "SKM",
+            "layerVersion": "v2"
+        },
         {
             "Name": "Geonosis AAS V1",
             "rawName": "GC_Geonosis_AAS_V1",
@@ -295,6 +385,15 @@
             "mapId": "Geonosis",
             "mapName": "Geonosis",
             "gamemode": "AAS",
+            "layerVersion": "v1"
+        },
+	 {
+            "Name": "Geonosis RAAS V1",
+            "rawName": "GC_Geonosis_RAAS_V1",
+            "levelName": "GC_Geonosis_RAAS_V1",
+            "mapId": "Geonosis",
+            "mapName": "Geonosis",
+            "gamemode": "RAAS",
             "layerVersion": "v1"
         },
         {
@@ -315,6 +414,60 @@
             "gamemode": "INS",
             "layerVersion": "v1"
         },
+	{
+            "Name": "Geonosis INV V2",
+            "rawName": "GC_Geonosis_INV_V2",
+            "levelName": "GC_Geonosis_INV_V2",
+            "mapId": "Geonosis",
+            "mapName": "Geonosis",
+            "gamemode": "INV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Geonosis RINV V2",
+            "rawName": "GC_Geonosis_RINV_V2",
+            "levelName": "GC_Geonosis_RINV_V2",
+            "mapId": "Geonosis",
+            "mapName": "Geonosis",
+            "gamemode": "RINV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Geonosis INV V1",
+            "rawName": "GC_Geonosis_INV_V1",
+            "levelName": "GC_Geonosis_INV_V1",
+            "mapId": "Geonosis",
+            "mapName": "Geonosis",
+            "gamemode": "INV",
+            "layerVersion": "v1-S"
+        },
+	{
+            "Name": "Geonosis RINV V1",
+            "rawName": "GC_Geonosis_RINV_V1",
+            "levelName": "GC_Geonosis_RINV_V1",
+            "mapId": "Geonosis",
+            "mapName": "Geonosis",
+            "gamemode": "RINV",
+            "layerVersion": "v1-S"
+        },
+	{
+            "Name": "Geonosis INV V3",
+            "rawName": "GC_Geonosis_INV_V3",
+            "levelName": "GC_Geonosis_INV_V3",
+            "mapId": "Geonosis",
+            "mapName": "Geonosis",
+            "gamemode": "INV",
+            "layerVersion": "v3"
+        },
+	{
+            "Name": "Geonosis INV V1-S",
+            "rawName": "GC_Geonosis_INV_V1-S",
+            "levelName": "GC_Geonosis_INV_V1-S",
+            "mapId": "Geonosis",
+            "mapName": "Geonosis",
+            "gamemode": "INV",
+            "layerVersion": "v1"
+        },
         {
             "Name": "Geonosis RAAS V1",
             "rawName": "GC_Geonosis_RAAS_V1",
@@ -323,6 +476,24 @@
             "mapName": "Geonosis",
             "gamemode": "RAAS",
             "layerVersion": "v1"
+        },
+	{
+            "Name": "Geonosis SKM V1",
+            "rawName": "GC_Geonosis_SKM_V1",
+            "levelName": "GC_Geonosis_SKM_V1",
+            "mapId": "Geonosis",
+            "mapName": "Geonosis",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },	
+	{
+            "Name": "Geonosis SKM V2",
+            "rawName": "GC_Geonosis_SKM_V2",
+            "levelName": "GC_Geonosis_SKM_V2",
+            "mapId": "Geonosis",
+            "mapName": "Geonosis",
+            "gamemode": "SKM",
+            "layerVersion": "v2"
         },
         {
             "Name": "Geonosis GLOPS",
@@ -351,6 +522,24 @@
             "gamemode": "INS",
             "layerVersion": "v1"
         },
+	 {
+            "Name": "Kashyyyk INV V2",
+            "rawName": "GC_Kashyyyk_INV_V2",
+            "levelName": "GC_Kashyyyk_INV_V2",
+            "mapId": "Kashyyyk",
+            "mapName": "Kashyyyk",
+            "gamemode": "INV",
+            "layerVersion": "v2"
+        },
+	 {
+            "Name": "Kashyyyk INV V1",
+            "rawName": "GC_Kashyyyk_INV_V1",
+            "levelName": "GC_Kashyyyk_INV_V1",
+            "mapId": "Kashyyyk",
+            "mapName": "Kashyyyk",
+            "gamemode": "INV",
+            "layerVersion": "v1"
+        },
         {
             "Name": "Kashyyyk RINV V1",
             "rawName": "GC_Kashyyyk_RINV_V1",
@@ -359,6 +548,33 @@
             "mapName": "Kashyyyk",
             "gamemode": "RINV",
             "layerVersion": "v1"
+        },	
+	 {
+            "Name": "Kashyyyk SKM V1",
+            "rawName": "GC_Kashyyyk_SKM_V1",
+            "levelName": "GC_Kashyyyk_SKM_V1",
+            "mapId": "Kashyyyk",
+            "mapName": "Kashyyyk",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Kashyyyk SKM V2",
+            "rawName": "GC_Kashyyyk_SKM_V2",
+            "levelName": "GC_Kashyyyk_SKM_V2",
+            "mapId": "Kashyyyk",
+            "mapName": "Kashyyyk",
+            "gamemode": "SKM",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Kashyyyk TDM",
+            "rawName": "GC_Kashyyyk_TDM_V2",
+            "levelName": "GC_Kashyyyk_TDM_V2",
+            "mapId": "Kashyyyk",
+            "mapName": "Kashyyyk",
+            "gamemode": "TDM",
+            "layerVersion": ""
         },
         {
             "Name": "Kashyyyk GLOPS",
@@ -367,6 +583,78 @@
             "mapId": "Kashyyyk",
             "mapName": "Kashyyyk",
             "gamemode": "GLOPS",
+            "layerVersion": ""
+        },
+	{
+            "Name": "KaminoTraining TDM",
+            "rawName": "GC_KaminoTraining_TDM",
+            "levelName": "GC_KaminoTraining_TDM",
+            "mapId": "KaminoTraining",
+            "mapName": "KaminoTraining",
+            "gamemode": "TDM",
+            "layerVersion": ""
+        },
+	{
+            "Name": "KaminoTraining Capture Shield",
+            "rawName": "GC_KaminoTraining_Capture_Shield",
+            "levelName": "GC_KaminoTraining_Capture_Shield",
+            "mapId": "KaminoTraining",
+            "mapName": "KaminoTraining",
+            "gamemode": "Capture_Shield",
+            "layerVersion": ""
+        },	
+	{
+            "Name": "KaminoTraining Capture Room",
+            "rawName": "GC_KaminoTraining_Capture_Room",
+            "levelName": "GC_KaminoTraining_Capture_Room",
+            "mapId": "KaminoTraining",
+            "mapName": "KaminoTraining",
+            "gamemode": "Capture_Room",
+            "layerVersion": ""
+        },
+	{
+            "Name": "KaminoTraining Capture Lego",
+            "rawName": "GC_KaminoTraining_Capture_Lego",
+            "levelName": "GC_KaminoTraining_Capture_Lego",
+            "mapId": "KaminoTraining",
+            "mapName": "KaminoTraining",
+            "gamemode": "Capture_Lego",
+            "layerVersion": ""
+        },
+	{
+            "Name": "KaminoTraining Capture DEV",
+            "rawName": "GC_KaminoTraining_Capture_DEV",
+            "levelName": "GC_KaminoTraining_Capture_DEV",
+            "mapId": "KaminoTraining",
+            "mapName": "KaminoTraining",
+            "gamemode": "Capture_DEV",
+            "layerVersion": ""
+        },
+	{
+            "Name": "KaminoTraining Capture Allkits_2",
+            "rawName": "GC_KaminoTraining_Capture_Allkits_2",
+            "levelName": "GC_KaminoTraining_Capture_Allkits_2",
+            "mapId": "KaminoTraining",
+            "mapName": "KaminoTraining",
+            "gamemode": "Capture_Allkits_2",
+            "layerVersion": "2"
+        },
+	{
+            "Name": "KaminoTraining Capture Allkits",
+            "rawName": "GC_KaminoTraining_Capture_Allkits",
+            "levelName": "GC_KaminoTraining_Capture_Allkits",
+            "mapId": "KaminoTraining",
+            "mapName": "KaminoTraining",
+            "gamemode": "Capture_Allkits",
+            "layerVersion": ""
+        },
+	{
+            "Name": "KaminoTraining Capture",
+            "rawName": "GC_KaminoTraining_Capture",
+            "levelName": "GC_KaminoTraining_Capture",
+            "mapId": "KaminoTraining",
+            "mapName": "KaminoTraining",
+            "gamemode": "Capture",
             "layerVersion": ""
         },
         {
@@ -387,6 +675,15 @@
             "gamemode": "INV",
             "layerVersion": "v2"
         },
+	  {
+            "Name": "Kavado INV V3",
+            "rawName": "GC_Kavado_INV_V3",
+            "levelName": "GC_Kavado_INV_V3",
+            "mapId": "Kavado",
+            "mapName": "Kavado",
+            "gamemode": "INV",
+            "layerVersion": "v3"
+        },
         {
             "Name": "Kavado RAAS V1",
             "rawName": "GC_Kavado_RAAS_V1",
@@ -394,6 +691,42 @@
             "mapId": "Kavado",
             "mapName": "Kavado",
             "gamemode": "RAAS",
+            "layerVersion": "v1"
+        },	
+	{
+            "Name": "Kavado RAAS V1-R",
+            "rawName": "GC_Kavado_RAAS_V1-R",
+            "levelName": "GC_Kavado_RAAS_V1-R",
+            "mapId": "Kavado",
+            "mapName": "Kavado",
+            "gamemode": "RAAS",
+            "layerVersion": "v1-R"
+        },
+	{
+            "Name": "Kavado RINV V1",
+            "rawName": "GC_Kavado_RINV_V1",
+            "levelName": "GC_Kavado_RINV_V1",
+            "mapId": "Kavado",
+            "mapName": "Kavado",
+            "gamemode": "RINV",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Kavado S-INV-V1",
+            "rawName": "GC_Kavado_S-INV-V1",
+            "levelName": "GC_Kavado_S-INV-V1",
+            "mapId": "Kavado",
+            "mapName": "Kavado",
+            "gamemode": "S-INV",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Kavado SKM-V1",
+            "rawName": "GC_Kavado_SKM-V1",
+            "levelName": "GC_Kavado_SKM-V1",
+            "mapId": "Kavado",
+            "mapName": "Kavado",
+            "gamemode": "SKM",
             "layerVersion": "v1"
         },
         {
@@ -450,6 +783,33 @@
             "gamemode": "RINV",
             "layerVersion": "v1"
         },
+	{
+            "Name": "Morak Canyon RINV V2",
+            "rawName": "GC_MorakCanyon_RINV_V2",
+            "levelName": "GC_MorakCanyon_RINV_V2",
+            "mapId": "Morak",
+            "mapName": "Morak Canyon",
+            "gamemode": "RINV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Morak Canyon SKM V1",
+            "rawName": "GC_MorakCanyon_SKM_V1",
+            "levelName": "GC_MorakCanyon_SKM_V1",
+            "mapId": "Morak",
+            "mapName": "Morak Canyon",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Morak Canyon GLOPS",
+            "rawName": "GC_MorakCanyon_GLOPS_V1",
+            "levelName": "GC_MorakCanyon_GLOPS_V1",
+            "mapId": "Morak",
+            "mapName": "Morak Canyon",
+            "gamemode": "GLOPS",
+            "layerVersion": ""
+        },
         {
             "Name": "Morak Valley AAS V1",
             "rawName": "GC_MorakValley_AAS_V1",
@@ -467,6 +827,15 @@
             "mapName": "Morak Valley",
             "gamemode": "RINV",
             "layerVersion": "v1"
+        },
+	{
+            "Name": "Morak Valley GLOPS",
+            "rawName": "GC_MorakValley_GLOPS",
+            "levelName": "GC_MorakValley_GLOPS",
+            "mapId": "Morak",
+            "mapName": "Morak Valley",
+            "gamemode": "GLOPS",
+            "layerVersion": ""
         },
         {
             "Name": "Morak Valley INS V1",
@@ -513,6 +882,15 @@
             "gamemode": "GLOPS",
             "layerVersion": ""
         },
+	{
+            "Name": "Mygeeto SKM",
+            "rawName": "GC_Mygeeto_SKM",
+            "levelName": "GC_Mygeeto_SKM",
+            "mapId": "Mygeeto",
+            "mapName": "Mygeeto",
+            "gamemode": "SKM",
+            "layerVersion": ""
+        },
         {
             "Name": "Naboo Plains AAS V1",
             "rawName": "GC_NabooPlains_AAS_V1",
@@ -531,7 +909,43 @@
             "gamemode": "INV",
             "layerVersion": "v1"
         },
+	{
+            "Name": "Naboo Plains SKM V1",
+            "rawName": "GC_NabooPlains_SKM_V1",
+            "levelName": "GC_NabooPlains_SKM_V1",
+            "mapId": "NabooPlains",
+            "mapName": "Naboo Plains",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Naboo Plains SKM V2",
+            "rawName": "GC_NabooPlains_SKM_V2",
+            "levelName": "GC_NabooPlains_SKM_V2",
+            "mapId": "NabooPlains",
+            "mapName": "Naboo Plains",
+            "gamemode": "SKM",
+            "layerVersion": "v2"
+        },
         {
+            "Name": "Naboo Plains RINV V2",
+            "rawName": "GC_NabooPlains_RINV_V2",
+            "levelName": "GC_NabooPlains_RINV_V2",
+            "mapId": "NabooPlains",
+            "mapName": "Naboo Plains",
+            "gamemode": "RINV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Naboo Plains RINV V3",
+            "rawName": "GC_NabooPlains_RINV_V3",
+            "levelName": "GC_NabooPlains_RINV_V3",
+            "mapId": "NabooPlains",
+            "mapName": "Naboo Plains",
+            "gamemode": "RINV",
+            "layerVersion": "v3"
+        },
+	 {
             "Name": "Naboo Plains RINV V1",
             "rawName": "GC_NabooPlains_RINV_V1",
             "levelName": "GC_NabooPlains_RINV_V1",
@@ -558,6 +972,15 @@
             "gamemode": "GLOPS",
             "layerVersion": ""
         },
+	 {
+            "Name": "OrtoPlutonia SKM V1",
+            "rawName": "GC_OrtoPlutonia_SKM_V1",
+            "levelName": "GC_OrtoPlutonia_SKM_V1",
+            "mapId": "OrtoPlutonia",
+            "mapName": "OrtoPlutonia",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
         {
             "Name": "RhenVar RAAS V1",
             "rawName": "GC_Rhenvar_RAAS_V1",
@@ -566,6 +989,24 @@
             "mapName": "RhenVar",
             "gamemode": "RAAS",
             "layerVersion": "v1"
+        },	
+	{
+            "Name": "RhenVar RAAS V2",
+            "rawName": "GC_Rhenvar_RAAS_V2",
+            "levelName": "GC_Rhenvar_RAAS_V2",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "RAAS",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "RhenVar GLOPS",
+            "rawName": "GC_Rhenvar_GLOPS",
+            "levelName": "GC_Rhenvar_GLOPS",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "GLOPS",
+            "layerVersion": ""
         },
         {
             "Name": "RhenVar Skirmish V1",
@@ -585,6 +1026,15 @@
             "gamemode": "RAAS",
             "layerVersion": "v1-R"
         },
+	 {
+            "Name": "RhenVar RAAS V2-R",
+            "rawName": "GC_Rhenvar_RAAS_V2-R",
+            "levelName": "GC_Rhenvar_RAAS_V2-R",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "RAAS",
+            "layerVersion": "v2-R"
+        },
         {
             "Name": "RhenVar RINV V1",
             "rawName": "GC_Rhenvar_RINV_V1",
@@ -593,6 +1043,78 @@
             "mapName": "RhenVar",
             "gamemode": "RINV",
             "layerVersion": "v1"
+        },
+	{
+            "Name": "RhenVar RINV V2",
+            "rawName": "GC_Rhenvar_RINV_V2",
+            "levelName": "GC_Rhenvar_RINV_V2",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "RINV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "RhenVar RINV V2-R",
+            "rawName": "GC_Rhenvar_RINV_V2-R",
+            "levelName": "GC_Rhenvar_RINV_V2-R",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "RINV",
+            "layerVersion": "v2-R"
+        },
+	{
+            "Name": "RhenVar RINV V3",
+            "rawName": "GC_Rhenvar_RINV_V3",
+            "levelName": "GC_Rhenvar_RINV_V3",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "RINV",
+            "layerVersion": "v3"
+        },
+	{
+            "Name": "RhenVar RINV V4",
+            "rawName": "GC_Rhenvar_RINV_V4",
+            "levelName": "GC_Rhenvar_RINV_V4",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "RINV",
+            "layerVersion": "v4"
+        },
+	{
+            "Name": "RhenVar SKM V1",
+            "rawName": "GC_Rhenvar_SKM_V1",
+            "levelName": "GC_Rhenvar_SKM_V1",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "RhenVar RINV V4-R",
+            "rawName": "GC_Rhenvar_RINV_V4-R",
+            "levelName": "GC_Rhenvar_RINV_V4-R",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "RINV",
+            "layerVersion": "v4-R"
+        },
+	{
+            "Name": "RhenVar RINV V5",
+            "rawName": "GC_Rhenvar_RINV_V5",
+            "levelName": "GC_Rhenvar_RINV_V5",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "RINV",
+            "layerVersion": "v5"
+        },
+	{
+            "Name": "RhenVar RINV V5-R",
+            "rawName": "GC_Rhenvar_RINV_V5-R",
+            "levelName": "GC_Rhenvar_RINV_V5-R",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "RINV",
+            "layerVersion": "v5-R"
         },
         {
             "Name": "RhenVar Seed V1",
@@ -603,10 +1125,19 @@
             "gamemode": "Seed",
             "layerVersion": "v1"
         },
+	{
+            "Name": "RhenVar Seed V2",
+            "rawName": "GC_Rhenvar_Seed_V2",
+            "levelName": "GC_Rhenvar_Seed_V2",
+            "mapId": "RhenVar",
+            "mapName": "RhenVar",
+            "gamemode": "Seed",
+            "layerVersion": "v2"
+        },
         {
             "Name": "Ryloth AAS V1",
-            "rawName": "GC_Ryloth_AAS_V1",
-            "levelName": "GC_Ryloth_AAS_V1",
+            "rawName": "GC_Ryloth_AAS_v1",
+            "levelName": "GC_Ryloth_AAS_v1",
             "mapId": "Ryloth",
             "mapName": "Ryloth",
             "gamemode": "AAS",
@@ -614,12 +1145,21 @@
         },
         {
             "Name": "Ryloth AAS V2",
-            "rawName": "GC_Ryloth_AAS_V2",
-            "levelName": "GC_Ryloth_AAS_V2",
+            "rawName": "GC_Ryloth_AAS_v2",
+            "levelName": "GC_Ryloth_AAS_v2",
             "mapId": "Ryloth",
             "mapName": "Ryloth",
             "gamemode": "AAS",
             "layerVersion": "v2"
+        },
+	{
+            "Name": "Ryloth AAS V3",
+            "rawName": "GC_Ryloth_AAS_v3",
+            "levelName": "GC_Ryloth_AAS_v3",
+            "mapId": "Ryloth",
+            "mapName": "Ryloth",
+            "gamemode": "AAS",
+            "layerVersion": "v3"
         },
         {
             "Name": "Ryloth INS V1",
@@ -630,6 +1170,42 @@
             "gamemode": "INS",
             "layerVersion": "v1"
         },
+	{
+            "Name": "Ryloth INV V1",
+            "rawName": "GC_Ryloth_INV_V1",
+            "levelName": "GC_Ryloth_INV_V1",
+            "mapId": "Ryloth",
+            "mapName": "Ryloth",
+            "gamemode": "INV",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Ryloth INV V2",
+            "rawName": "GC_Ryloth_INV_V2",
+            "levelName": "GC_Ryloth_INV_V2",
+            "mapId": "Ryloth",
+            "mapName": "Ryloth",
+            "gamemode": "INV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Ryloth INV V3",
+            "rawName": "GC_Ryloth_INV_V3",
+            "levelName": "GC_Ryloth_INV_V3",
+            "mapId": "Ryloth",
+            "mapName": "Ryloth",
+            "gamemode": "INV",
+            "layerVersion": "v3"
+        },	
+	{
+            "Name": "Ryloth Test",
+            "rawName": "GC_Ryloth_test",
+            "levelName": "GC_Ryloth_test",
+            "mapId": "Ryloth",
+            "mapName": "Ryloth",
+            "gamemode": "test",
+            "layerVersion": ""
+        },
         {
             "Name": "Ryloth GLOPS",
             "rawName": "GC_Ryloth_GLOPS",
@@ -638,6 +1214,78 @@
             "mapName": "Ryloth",
             "gamemode": "GLOPS",
             "layerVersion": ""
+        },
+	{
+            "Name": "Ryloth Canyons SEED V1",
+            "rawName": "GC_RylothCanyons_Seed_v1",
+            "levelName": "GC_RylothCanyons_Seed_v1",
+            "mapId": "RylothCanyons",
+            "mapName": "RylothCanyons",
+            "gamemode": "Seed",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Ryloth Canyons SEED V2",
+            "rawName": "GC_RylothCanyons_Seed_v2",
+            "levelName": "GC_RylothCanyons_Seed_v2",
+            "mapId": "RylothCanyons",
+            "mapName": "RylothCanyons",
+            "gamemode": "Seed",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Ryloth Canyons SEED V3",
+            "rawName": "GC_RylothCanyons_Seed_v3",
+            "levelName": "GC_RylothCanyons_Seed_v3",
+            "mapId": "RylothCanyons",
+            "mapName": "RylothCanyons",
+            "gamemode": "Seed",
+            "layerVersion": "v3"
+        },	
+	{
+            "Name": "Ryloth Canyons SKM V1",
+            "rawName": "GC_RylothCanyons_SKM_V1",
+            "levelName": "GC_RylothCanyons_SKM_V1",
+            "mapId": "RylothCanyons",
+            "mapName": "RylothCanyons",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Ryloth Canyons SKM V2",
+            "rawName": "GC_RylothCanyons_SKM_V2",
+            "levelName": "GC_RylothCanyons_SKM_V2",
+            "mapId": "RylothCanyons",
+            "mapName": "RylothCanyons",
+            "gamemode": "SKM",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Ryloth Canyons SKM V3",
+            "rawName": "GC_RylothCanyons_SKM_V3",
+            "levelName": "GC_RylothCanyons_SKM_V3",
+            "mapId": "RylothCanyons",
+            "mapName": "RylothCanyons",
+            "gamemode": "SKM",
+            "layerVersion": "v3"
+        },
+	{
+            "Name": "Sesid INV V1",
+            "rawName": "GC_Sesid_INV_V1",
+            "levelName": "GC_Sesid_INV_V1",
+            "mapId": "Sesid",
+            "mapName": "Sesid",
+            "gamemode": "INV",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Sesid INV V2",
+            "rawName": "GC_Sesid_INV_V2",
+            "levelName": "GC_Sesid_INV_V2",
+            "mapId": "Sesid",
+            "mapName": "Sesid",
+            "gamemode": "INV",
+            "layerVersion": "v2"
         },
         {
             "Name": "Sesid AAS V1",
@@ -657,6 +1305,15 @@
             "gamemode": "AAS",
             "layerVersion": "v2"
         },
+	{
+            "Name": "Sesid AAS V3",
+            "rawName": "GC_Sesid_AAS_V3",
+            "levelName": "GC_Sesid_AAS_V3",
+            "mapId": "Sesid",
+            "mapName": "Sesid",
+            "gamemode": "AAS",
+            "layerVersion": "v3"
+        },
         {
             "Name": "Sesid RAAS V1",
             "rawName": "GC_Sesid_RAAS_V1",
@@ -664,6 +1321,33 @@
             "mapId": "Sesid",
             "mapName": "Sesid",
             "gamemode": "RAAS",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Sesid SKM V1",
+            "rawName": "GC_Sesid_SKM_V1",
+            "levelName": "GC_Sesid_SKM_V1",
+            "mapId": "Sesid",
+            "mapName": "Sesid",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Sesid SKM V2",
+            "rawName": "GC_Sesid_SKM_V2",
+            "levelName": "GC_Sesid_SKM_V2",
+            "mapId": "Sesid",
+            "mapName": "Sesid",
+            "gamemode": "SKM",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Sesid RINV V1",
+            "rawName": "GC_Sesid_RINV_V1",
+            "levelName": "GC_Sesid_RINV_V1",
+            "mapId": "Sesid",
+            "mapName": "Sesid",
+            "gamemode": "RINV",
             "layerVersion": "v1"
         },
         {
@@ -684,6 +1368,51 @@
             "gamemode": "RINV",
             "layerVersion": "v1"
         },
+	{
+            "Name": "Sesid Equator RINV V2",
+            "rawName": "GC_SesidEquator_RINV_V2",
+            "levelName": "GC_SesidEquator_RINV_V2",
+            "mapId": "SesidEquator",
+            "mapName": "Sesid Equator",
+            "gamemode": "RINV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Sesid Equator RINV V3",
+            "rawName": "GC_SesidEquator_RINV_V3",
+            "levelName": "GC_SesidEquator_RINV_V3",
+            "mapId": "SesidEquator",
+            "mapName": "Sesid Equator",
+            "gamemode": "RINV",
+            "layerVersion": "v3"
+        },
+	{
+            "Name": "Sesid Equator RINV V4",
+            "rawName": "GC_SesidEquator_RINV_V4",
+            "levelName": "GC_SesidEquator_RINV_V4",
+            "mapId": "SesidEquator",
+            "mapName": "Sesid Equator",
+            "gamemode": "RINV",
+            "layerVersion": "v4"
+        },
+	{
+            "Name": "Sesid Equator SKM V2",
+            "rawName": "GC_SesidEquator_RINV_V2",
+            "levelName": "GC_SesidEquator_RINV_V2",
+            "mapId": "SesidEquator",
+            "mapName": "Sesid Equator",
+            "gamemode": "RINV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Sesid Equator Test",
+            "rawName": "GC_SesidEquator_Test",
+            "levelName": "GC_SesidEquator_test",
+            "mapId": "SesidEquator",
+            "mapName": "Sesid Equator",
+            "gamemode": "Test",
+            "layerVersion": ""
+        },
         {
             "Name": "Sesid Equator RAAS V1",
             "rawName": "GC_SesidEquator_RAAS_V1",
@@ -701,6 +1430,24 @@
             "mapName": "Sesid Equator",
             "gamemode": "GLOPS",
             "layerVersion": ""
+        },
+	{
+            "Name": "Sesid Equator TRAAS V1",
+            "rawName": "GC_SesidEquator_TRAAS_V1",
+            "levelName": "GC_SesidEquator_TRAAS_V1",
+            "mapId": "SesidEquator",
+            "mapName": "Sesid Equator",
+            "gamemode": "TRAAS",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Sesid Equator TRINV V1",
+            "rawName": "GC_SesidEquator_TRINV_V1",
+            "levelName": "GC_SesidEquator_TRINV_V1",
+            "mapId": "SesidEquator",
+            "mapName": "Sesid Equator",
+            "gamemode": "TRINV",
+            "layerVersion": "v1"
         },
         {
             "Name": "Sullust AAS V1",
@@ -720,6 +1467,24 @@
             "gamemode": "RINV",
             "layerVersion": "v1"
         },
+	{
+            "Name": "Sullust INV V1",
+            "rawName": "GC_Sullust_INV_V1",
+            "levelName": "GC_Sullust_INV_V1",
+            "mapId": "Sullust",
+            "mapName": "Sullust",
+            "gamemode": "INV",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Sullust INV V2",
+            "rawName": "GC_Sullust_INV_V2",
+            "levelName": "GC_Sullust_INV_V2",
+            "mapId": "Sullust",
+            "mapName": "Sullust",
+            "gamemode": "INV",
+            "layerVersion": "v2"
+        },
         {
             "Name": "Sullust GLOPS",
             "rawName": "GC_Sullust_GLOPS",
@@ -728,6 +1493,33 @@
             "mapName": "Sullust",
             "gamemode": "GLOPS",
             "layerVersion": ""
+        },
+	{
+            "Name": "Sullust RAAS V1",
+            "rawName": "GC_Sullust_RAAS_V1",
+            "levelName": "GC_Sullust_RAAS_V1",
+            "mapId": "Sullust",
+            "mapName": "Sullust",
+            "gamemode": "RAAS",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Sullust SKM V2",
+            "rawName": "GC_Sullust_SKM_V2",
+            "levelName": "GC_Sullust_SKM_V2",
+            "mapId": "Sullust",
+            "mapName": "Sullust",
+            "gamemode": "SKM",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Sullust SKM V1",
+            "rawName": "GC_Sullust_SKM_V1",
+            "levelName": "GC_Sullust_SKM_V1",
+            "mapId": "Sullust",
+            "mapName": "Sullust",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
         },
         {
             "Name": "Tatooine AAS V1",
@@ -738,6 +1530,15 @@
             "gamemode": "AAS",
             "layerVersion": "v1"
         },
+	{
+            "Name": "Tatooine AAS V1-H",
+            "rawName": "GC_Tatooine_AAS_V1-H",
+            "levelName": "GC_Tatooine_AAS_V1-H",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "AAS",
+            "layerVersion": "v1-H"
+        },
         {
             "Name": "Tatooine RINV V1",
             "rawName": "GC_Tatooine_RINV_V1",
@@ -747,6 +1548,96 @@
             "gamemode": "RINV",
             "layerVersion": "v1"
         },
+	{
+            "Name": "Tatooine RINV V2",
+            "rawName": "GC_Tatooine_RINV_V2",
+            "levelName": "GC_Tatooine_RINV_V2",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "RINV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Tatooine RINV V3",
+            "rawName": "GC_Tatooine_RINV_V3",
+            "levelName": "GC_Tatooine_RINV_V3",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "RINV",
+            "layerVersion": "v3"
+        },
+	{
+            "Name": "Tatooine INS V1",
+            "rawName": "GC_Tatooine_INS_V1",
+            "levelName": "GC_Tatooine_INS_V1",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "INS",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Tatooine SEED V1",
+            "rawName": "GC_Tatooine_SEED_V1",
+            "levelName": "GC_Tatooine_SEED_V1",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "SEED",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Tatooine SKM V1",
+            "rawName": "GC_Tatooine_SKM_V1",
+            "levelName": "GC_Tatooine_SKM_V1",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Tatooine SKM V2",
+            "rawName": "GC_Tatooine_SKM_V2",
+            "levelName": "GC_Tatooine_SKM_V2",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "SKM",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Tatooine Training",
+            "rawName": "GC_Tatooine_Training",
+            "levelName": "GC_Tatooine_Training",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "Training",
+            "layerVersion": ""
+        },
+	{
+            "Name": "Tatooine INV V1",
+            "rawName": "GC_Tatooine_INV_V1",
+            "levelName": "GC_Tatooine_INV_V1",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "INV",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Tatooine INV V1-R",
+            "rawName": "GC_Tatooine_INV_V1-R",
+            "levelName": "GC_Tatooine_INV_V1-R",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "INV",
+            "layerVersion": "v1-R"
+        },
+	{
+            "Name": "Tatooine INV V2",
+            "rawName": "GC_Tatooine_INV_V2",
+            "levelName": "GC_Tatooine_INV_V2",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "INV",
+            "layerVersion": "v2"
+        },
         {
             "Name": "Tatooine GLOPS",
             "rawName": "GC_Tatooine_GLOPS",
@@ -755,6 +1646,69 @@
             "mapName": "Tatooine",
             "gamemode": "GLOPS",
             "layerVersion": ""
+        },
+	{
+            "Name": "Tatooine RAAS V1",
+            "rawName": "GC_Tatooine_RAAS_V1",
+            "levelName": "GC_Tatooine_RAAS_V1",
+            "mapId": "Tatooine",
+            "mapName": "Tatooine",
+            "gamemode": "RAAS",
+            "layerVersion": "v1"
+        },	
+	{
+            "Name": "Venator SKM V1",
+            "rawName": "GC_Venator_SKM_V1",
+            "levelName": "GC_Venator_SKM_V1",
+            "mapId": "Venator",
+            "mapName": "Venator",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Venator SKM V1-L",
+            "rawName": "GC_Venator_SKM_V1-L",
+            "levelName": "GC_Venator_SKM_V1-L",
+            "mapId": "Venator",
+            "mapName": "Venator",
+            "gamemode": "SKM",
+            "layerVersion": "v1-L"
+        },
+	{
+            "Name": "Venator Assault SKM V1",
+            "rawName": "GC_VenatorAssault_SKM_V1",
+            "levelName": "GC_VenatorAssault_SKM_V1",
+            "mapId": "VenatorAssault",
+            "mapName": "VenatorAssault",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Venator Assault Seed V1",
+            "rawName": "GC_VenatorAssault_Seed_V1",
+            "levelName": "GC_VenatorAssault_Seed_V1",
+            "mapId": "VenatorAssault",
+            "mapName": "VenatorAssault",
+            "gamemode": "Seed",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Venator Assault Seed V2",
+            "rawName": "GC_VenatorAssault_Seed_V2",
+            "levelName": "GC_VenatorAssault_Seed_V2",
+            "mapId": "VenatorAssault",
+            "mapName": "VenatorAssault",
+            "gamemode": "Seed",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Venator Assault INV V1",
+            "rawName": "GC_VenatorAssault_INV_V1",
+            "levelName": "GC_VenatorAssault_INV_V1",
+            "mapId": "VenatorAssault",
+            "mapName": "VenatorAssault",
+            "gamemode": "INV",
+            "layerVersion": "v1"
         },
         {
             "Name": "Yavin4 AAS V1",
@@ -772,6 +1726,51 @@
             "mapId": "Yavin4",
             "mapName": "Yavin 4",
             "gamemode": "INV",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Yavin4 INV V2",
+            "rawName": "GC_Yavin4_INV_V2",
+            "levelName": "GC_Yavin4_INV_V2",
+            "mapId": "Yavin4",
+            "mapName": "Yavin 4",
+            "gamemode": "INV",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Yavin4 INV V3",
+            "rawName": "GC_Yavin4_INV_V3",
+            "levelName": "GC_Yavin4_INV_V3",
+            "mapId": "Yavin4",
+            "mapName": "Yavin 4",
+            "gamemode": "INV",
+            "layerVersion": "v3"
+        },
+	{
+            "Name": "Yavin4 SKM V1",
+            "rawName": "GC_Yavin4_SKM_V1",
+            "levelName": "GC_Yavin4_SKM_V1",
+            "mapId": "Yavin4",
+            "mapName": "Yavin 4",
+            "gamemode": "SKM",
+            "layerVersion": "v1"
+        },
+	{
+            "Name": "Yavin4 SKM V2",
+            "rawName": "GC_Yavin4_SKM_V2",
+            "levelName": "GC_Yavin4_SKM_V2",
+            "mapId": "Yavin4",
+            "mapName": "Yavin 4",
+            "gamemode": "SKM",
+            "layerVersion": "v2"
+        },
+	{
+            "Name": "Yavin4 INS V1",
+            "rawName": "GC_Yavin4_INS_V1",
+            "levelName": "GC_Yavin4_INS_V1",
+            "mapId": "Yavin4",
+            "mapName": "Yavin 4",
+            "gamemode": "INS",
             "layerVersion": "v1"
         },
         {
